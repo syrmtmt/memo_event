@@ -4,6 +4,7 @@
 * <https://jawsug-bgnr.connpass.com/event/185492/?utm_campaign=event_waitlist_promotion_to_participant&utm_source=notifications&utm_medium=email&utm_content=detail_btn>
 * （ハンズオン参加するのけっこうビビる派：「置いてかれたらやだなー」とか思う派なんですが、オンラインだし人多いし・・というわけで参加してみた。）
     * **実際こうやって時間をとって一連の簡単な操作をしてみる、というのは大事よな。**
+    * **あと今回私は「手を動かすこと」に重点を置いてたので、会場の質問とかあんまりちゃんと追ってなかったのですが、他の参加者のブログとか読んでるとぱらぱら面白い小話されてたっぽくて、あああーーってなった。そっちまで気回せたら最高。**
 * （VSCodeで画像を貼るやり方を覚えたのでここぞとばかりにスクショを貼っている）
 
 ---
