@@ -1,8 +1,9 @@
-# aa
+# JAWS-UG CLI専門支部 #172R S3基礎 (オブジェクト)
 
 ## 概要
 
 * はじめてきた！
+* <https://jawsug-cli.connpass.com/event/188843/>
 
 ---
 
